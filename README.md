@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Oi 👋! Meu nome é Felipe e tenho 21 anos, sou de Fortaleza-CE, graduando em análise e desenvolvimento de sistemas. Atualmente estudo para me tornar um desenvolvedor front-end e futuramente pretendo me aprimorar e me tornar um desenvolvedor Full-Stack!</h2>
 
 ###
 
